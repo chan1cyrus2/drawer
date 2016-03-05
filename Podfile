@@ -5,6 +5,7 @@ use_frameworks!
 
 target 'drawer' do
     pod 'Firebase'
+    pod "MXParallaxHeader"
 end
 
 #target 'drawerTests' do
